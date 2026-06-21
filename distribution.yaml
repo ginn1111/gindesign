@@ -1,0 +1,13 @@
+name: gindesign
+version: 1.0.0
+description: Design agent for GIN
+hermes_requires: ">=0.12.0"
+author: gin
+license: MIT
+env_requires:
+  - name: OPENAI_API_KEY
+    description: OpenAI API key (for model access)
+  - name: OPENAI_BASE_URL
+    description: OpenAI API base URL (for model access)
+
+source: https://github.com/ginn1111/gindesign
