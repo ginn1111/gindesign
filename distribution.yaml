@@ -1,5 +1,5 @@
 name: gindesign
-version: 1.0.0
+version: 1.0.1
 description: Design agent for GIN
 hermes_requires: ">=0.12.0"
 author: gin
